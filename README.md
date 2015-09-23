@@ -16,3 +16,5 @@ Just like [horejsek's ext] (https://chrome.google.com/webstore/detail/special-ch
 Ща будет.
 #### Link to chrome webstore
 Coming soon.
+#### Credits
+Icons crafted by [Entypo](http://www.entypo.com/).
