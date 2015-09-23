@@ -14,3 +14,5 @@ Just like [horejsek's ext] (https://chrome.google.com/webstore/detail/special-ch
 |Delete unwanted|Settings window at all|||
 #### Screenshots
 Ща будет.
+#### Link to chrome webstore
+Coming soon.
