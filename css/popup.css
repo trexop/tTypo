@@ -1,0 +1,198 @@
+body {
+    width: 340px;
+    min-height: 100px;
+    cursor: default;
+    -webkit-user-select: none;
+}
+.header {
+    height: 50px;
+    display: table-cell;
+}
+.characters {
+    border-bottom: 1px solid #eee;
+}
+.character {
+    height: 50px;
+    width: 100%;
+    align-items: baseline;
+}
+.icon {
+    height: 50px;
+    width: 48px;
+    float: left;
+    font-family: roboto;
+    font-size: 20px;
+    text-align: -webkit-center;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    border-right: 1px solid #eee;
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position: 15px 15px;
+}
+.icon:hover {
+    color: rgba(0, 0, 0, 0);
+    background-image: url(/img/svg/cross.svg) !important;
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position: 15px 15px;
+}
+.description {
+    width: 175px;
+    height: 50px;
+    font-size: 14px;
+    font-family: roboto;
+    position: relative;
+    display: table-cell;
+    vertical-align: middle;
+    padding-left: 15px;
+}
+.clipboard-copy {
+    display: table-cell;
+    width: 50px;
+    height: 50px;
+    background-image: url(/img/svg/copy.svg);
+    background-repeat: no-repeat;
+    background-size: 20px;
+    background-position: 15px 15px;
+    border-left: 1px solid #eee;
+}
+.settings-button {
+    height: 50px;
+    width: 50px;
+    display: table-cell;
+    background-image: url(/img/svg/tools.svg);
+    background-position: 13px 13px;
+    background-repeat: no-repeat;
+    background-size: 20px;
+    border-left: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    margin-left: -5px;
+}
+.top-desc {
+    height: 50px;
+    width: 291px;
+    display: table-cell;
+    background-image: url(/img/icon48.png);
+    background-repeat: no-repeat;
+    background-size: 48px;
+    background-position: 2px -5px;
+    border-bottom: 1px solid #eee;
+    font-size: 12px;
+    font-family: roboto;
+    text-align: -webkit-center;
+    vertical-align: middle;
+}
+.paste {
+    display: table-cell !important;
+    width: 50px;
+    height: 50px;
+    background-image: url(/img/svg/pencil.svg);
+    background-repeat: no-repeat;
+    background-position: 15px 15px;
+    background-size: 20px;
+    border-left: 1px solid #eee;
+}
+.add-symbol {
+    height: 50px;
+    width: 100%;
+}
+.add-icon {
+    height: 50px;
+    width: 48px;
+    border-right: 1px solid #eee;
+    display: table-cell;
+    font-family: roboto;
+    font-size: 20px;
+    text-align: -webkit-center;
+    margin: auto;
+    vertical-align: middle;
+}
+.add-symbol-desc {
+    display: table-cell;
+    font-size: 14px;
+    vertical-align: middle;
+    font-family: roboto;
+    padding-left: 15px;
+    width: 225px;
+}
+.save {
+    display: none;
+    height: 50px;
+    width: 50px;
+    border-left: 1px solid #eee;
+    background-image: url(/img/svg/save.svg);
+    background-repeat: no-repeat;
+    background-size: 20px;
+    background-position: 15px 15px;
+}
+.settings {
+    display: none;
+    height: 250px;
+    width: 100%;
+    background-color: #FFF;
+    position: absolute;
+    z-index: 5;
+    top: 59px;
+    left: 0px;
+}
+.close {
+    height: 50px;
+    width: 50px;
+    display: table-cell;
+    background-image: url(/img/svg/cross.svg);
+    background-position: 13px 13px;
+    background-repeat: no-repeat;
+    background-size: 20px;
+    border-left: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    margin-left: -5px;
+}
+.clipboard-copy:hover,
+.settings-button:hover,
+.add-icon:hover,
+.add-symbol-desc:hover,
+.paste:hover,
+.icon:hover,
+.close:hover,
+.save:hover {
+    background-color: #eee;
+}
+
+.theme-select,
+.language,
+.window-close {
+    height: 50px;
+    width: 350px;
+    font-family: roboto;
+    font-size: 15px;
+    text-align: -webkit-center;
+    display: block;
+    border-bottom: 1px solid #eee;
+}
+.set-description {
+    height: 50px;
+    width: 210px;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: left;
+    padding-left: 20px;
+}
+.first-option {
+    width: 60px;
+    height: 50px;
+    font-family: roboto;
+    font-size: 16px;
+    right: 6px;
+    text-align: -webkit-center;
+    vertical-align: middle;
+    display: table-cell;
+}
+.second-option {
+    display: table-cell;
+    width: 50px;
+    height: 50px;
+    vertical-align: middle;
+}

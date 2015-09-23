@@ -1,0 +1,18 @@
+{
+	"div-class": {
+		"set-description": "Оформление",
+		"language": "Язык",
+		"window-close": "Сворачивать окно при копировании",
+		"add-symbol-desc": "Щёлкните, чтобы добавить свой",
+		"add-icon": "+",
+		"top-desc": "\" скопирован в буфер!"
+	},
+	"div-id": {
+		"theme-light": "День",
+		"theme-dark": "Ночь",
+		"lang-en": "EN",
+		"lang-ru": "RU",
+		"wclose-yes": "Да",
+		"wclose-no": "Нет"
+	}
+}

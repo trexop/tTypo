@@ -1,0 +1,18 @@
+{
+	"div-class": {
+		"set-description": "Appearance",
+		"language": "Language",
+		"window-close": "Hide popup after copying",
+		"add-symbol-desc": "Click to add custom",
+		"add-icon": "+",
+		"top-desc": "\" copied to clipboard!"
+	},
+	"div-id": {
+		"theme-light": "Light",
+		"theme-dark": "Dark",
+		"lang-en": "EN",
+		"lang-ru": "RU",
+		"wclose-yes": "Yes",
+		"wclose-no": "No"
+	}
+}

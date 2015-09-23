@@ -1,0 +1,27 @@
+﻿{
+  "name": "tTypo",
+  "short_name": "tTypo Helper",
+  "version": "0.0.1",
+  "description": "Долой суррогатные тире!",
+  "manifest_version": 2,
+  "options_page": "popup.html",
+  "background": {
+    "scripts": ["js/background.js"],
+    "persistent": false
+  },
+  "icons": { 
+    "16": "img/icon16.png",
+    "48": "img/icon48.png",
+    "128": "img/icon128.png" 
+  },
+  "permissions": [
+    "storage",
+    "clipboardRead",
+    "clipboardWrite",
+    "contextMenus"
+  ],
+  "browser_action": {
+    "default_icon": "img/icon16.png",
+    "default_popup": "popup.html"
+  }
+}
