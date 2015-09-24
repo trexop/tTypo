@@ -1,5 +1,5 @@
 # tTypo
-Pre-pre-alpha version of 1001-th fast-access-to-spec-symbols chrome extension. I'm slowly exploring chrome API and present code is my first guinea pig. Do not take serious.
+Pre-pre-alpha version of 1001-th fast-access-to-spec-symbols chrome extension. I'm slowly exploring chrome API and present code is my first guinea pig. Do not take it serious.
 #### Mission
 As you know, hard to always follow basic typography rules. People use minus sign  instead of dash, invented terrible surrogate characters like "(c)" or "!=", writes "TM" instead of "™" – rape eyes of reader in such different ways just because our usual keyboard is extremely humble thing.
 
