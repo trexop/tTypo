@@ -10,7 +10,7 @@ Just like [horejsek's ext] (https://chrome.google.com/webstore/detail/special-ch
 |     Ready     |   Not ready   |     Todo     |  Known bugs  |
 | :-------------: | :-------------: | :------------: | :------------: |
 |Copying symbols to clipboard|Editing rows by yourself|Redraw 16x16 icon|Backslash symbol in string always works as an escape character|
-|Add custom strings|Language and appearance settings|*Fix "+" field size at 50x50 for easy store large strings*||
+|Add custom strings|Language and appearance settings|~~Fix "+" field size at 50x50 for easy store large strings~~||
 |Delete unwanted|Settings window at all|||
 #### Screenshots
 Ща будет.
