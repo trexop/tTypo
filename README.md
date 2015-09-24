@@ -26,7 +26,7 @@ Click "copy" icon and save item to clipboard.
 
 ![3](/img/screenshots/Screenshot_3.png)
 
-Add entries yourself.
+Add custom entries.
 
 ![4](/img/screenshots/Screenshot_4.png)
 
