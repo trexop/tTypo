@@ -99,25 +99,36 @@ body {
 .add-symbol {
     height: 50px;
     width: 100%;
+    max-height: 50px;
+    overflow: hidden;
+    display: flex;
 }
 .add-icon {
     height: 50px;
     width: 48px;
     border-right: 1px solid #eee;
-    display: table-cell;
+    display: flex;
     font-family: roboto;
     font-size: 20px;
-    text-align: -webkit-center;
-    margin: auto;
     vertical-align: middle;
+    overflow: hidden;
+    max-width: 48px;
+    align-items: center;
+    justify-content: center;
+    color: #9E9E9E;
 }
 .add-symbol-desc {
-    display: table-cell;
+    display: flex;
     font-size: 14px;
     vertical-align: middle;
     font-family: roboto;
     padding-left: 15px;
-    width: 225px;
+    width: auto;
+    min-width: 205px;
+    align-items: center;
+    justify-content: center;
+    padding-right: 20px;
+    color: #9E9E9E;
 }
 .save {
     display: none;
@@ -131,7 +142,7 @@ body {
 }
 .settings {
     display: none;
-    height: 250px;
+    height: 100%;
     width: 100%;
     background-color: #FFF;
     position: absolute;
