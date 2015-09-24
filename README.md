@@ -13,7 +13,26 @@ Just like [horejsek's ext] (https://chrome.google.com/webstore/detail/special-ch
 |Add custom strings|Language and appearance settings|~~Fix "+" field size at 50x50 for easy store large strings~~||
 |Delete unwanted|Settings window at all|||
 #### Screenshots
-Ща будет.
+Main window.
+
+![1](/img/screenshots/Screenshot_1.png)
+
+You can store even big text, it will appear in localstorage. 
+Hover icon with mouse cursor to see what this cell represents.
+
+![2](/img/screenshots/Screenshot_2.png)
+
+Click "copy" icon and save item to clipboard.
+
+![3](/img/screenshots/Screenshot_3.png)
+
+Add entries yourself.
+
+![4](/img/screenshots/Screenshot_4.png)
+
+Change preferences. (Currently not working)
+
+![5](/img/screenshots/Screenshot_5.png)
 #### Link to chrome webstore
 Coming soon.
 #### Credits
