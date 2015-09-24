@@ -63,11 +63,11 @@ window.onload = function() {
 		}
 	};
 	function init() {
-		// set.storedSymbols(startData); // Пока нет функции записи в память, используем чучело
 		chrome.storage.local.get("tTypo_stored_symbols", function(res) {
 			var storedDb = res.tTypo_stored_symbols;
 			if (storedDb == null) {
 				storedDb = startData;
+				set.storedSymbols(storedDb);
 			} else {};
 			// Это основной цикл, он заполняет DOM кнопками
 			for (id in storedDb) {
