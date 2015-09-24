@@ -7,7 +7,7 @@ As you know, hard to always follow basic typography rules. People use minus sign
 Current extension allows you to store most used combinations of characters in suitable cells and copy it instant to clipboard when it needs. 
 Just like [horejsek's ext] (https://chrome.google.com/webstore/detail/special-characters/nipbfgjelgfmhomikiffppkdpmienjnp), but mine comes with a little bit cleaner (in fact: completely different) codebase.
 #### Features
-|     Ready     |   Not ready   |     Todo     |  Known bugs  |
+|     Ready     |   Not ready   |     Todo     |  Known issues  |
 | :-------------: | :-------------: | :------------: | :------------: |
 |Copying symbols to clipboard|Editing rows by yourself|Redraw 16x16 icon|Backslash symbol in string always works as an escape character|
 |Add custom strings|Language and appearance settings|~~Fix "+" field size at 50x50 for easy store large strings~~||
