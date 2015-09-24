@@ -18,7 +18,7 @@ Main window.
 ![1](/img/screenshots/Screenshot_1.png)
 
 You can store even big text, it will appear in localstorage. 
-Hover icon with mouse cursor to see what this cell represents.
+Hover icon with mouse cursor to see what this cell represents, click it to delete one.
 
 ![2](/img/screenshots/Screenshot_2.png)
 
